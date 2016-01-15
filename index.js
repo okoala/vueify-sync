@@ -11,7 +11,7 @@ module.exports = function vueify (file) {
   function dependency(file) {
     stream.emit('file', file)
   }
-  
+
   function write(buf) {
     data += buf
   }
