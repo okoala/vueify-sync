@@ -1,7 +1,7 @@
 {
   "name": "vueify-sync",
   "version": "0.1.0",
-  "description": "Vue component transform for Browserify",
+  "description": "Vueify Sync Version, Vueify 同步版本",
   "main": "index.js",
   "repository": {
     "type": "git",
@@ -11,7 +11,7 @@
     "vue",
     "browserify"
   ],
-  "author": "Evan You",
+  "author": "Koala Huang",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/okoala/vueify-sync/issues"
