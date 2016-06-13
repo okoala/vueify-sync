@@ -1,6 +1,6 @@
 {
   "name": "vueify-sync",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Vueify Sync Version, Vueify 同步版本",
   "main": "index.js",
   "repository": {
